@@ -1,0 +1,35 @@
+{
+  "name": "postcss-custom-units",
+  "version": "0.0.0",
+  "description": "A PostCSS plugin allowing for on-the-fly custom units for uniform spacing, vertical-rhythm, and baseline grids.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "css",
+    "postcss",
+    "postcss-plugin",
+    "type",
+    "typography",
+    "grid",
+    "vertical-rhythm",
+    "rhythm",
+    "unit",
+    "spacing",
+    "grid",
+    "baseline"
+  ],
+  "author": "Mike Stop Continues <mikestopcontinues@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikestopcontinues/postcss-custom-units.git"
+  },
+  "dependencies": {
+    "postcss": "5.0.14"
+  },
+  "devDependencies": {
+    "mocha": "2.4.5"
+  }
+}
