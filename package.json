@@ -27,9 +27,9 @@
     "url": "https://github.com/mikestopcontinues/postcss-custom-units.git"
   },
   "dependencies": {
-    "postcss": "5.0.14"
+    "postcss": "^5"
   },
   "devDependencies": {
-    "mocha": "2.4.5"
+    "mocha": "8.1.2"
   }
 }
