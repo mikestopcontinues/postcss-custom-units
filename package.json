@@ -30,6 +30,6 @@
     "postcss": "^5"
   },
   "devDependencies": {
-    "mocha": "8.1.2"
+    "mocha": "8.4.0"
   }
 }
